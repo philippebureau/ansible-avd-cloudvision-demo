@@ -288,6 +288,6 @@ You must use same user on CVP and EOS for the demo.
 
 ```yaml
 # Cloud Vision server information
-cvp_instance_ip: 10.255.0.1
+cvp_instance_ips: 10.255.0.1
 cvp_ingestauth_key: ''
 ```
